@@ -1,0 +1,9 @@
+.card-body .custom-link {
+    text-decoration: none !important; /* Elimina el subrayado */
+    font-size: 1.2rem;     /* Aumenta el tamaño del texto */
+    color: inherit;       /* Mantiene el color actual del texto */
+}
+
+.card-body .custom-link:hover {
+    color: blue !important;          /* Cambia el color del texto a azul al hacer hover */
+}
